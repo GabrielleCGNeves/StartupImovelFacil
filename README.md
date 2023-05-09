@@ -1,5 +1,5 @@
 <div align=center>
-    <h1>(👩‍💻) Startup Venda e Aluga Imovel Fácil</h1>
+    <h1>👩‍💻 Startup Venda e Aluga Imovel Fácil</h1>
 </div>
 
 <div align='center'>
@@ -18,7 +18,7 @@
 </div>
 
 <div align=center>
-    <img src="https://storyset.com/illustration/company/amico#407BFFFF&hide=&hide=complete" width=400>
+    <img src="https://files.catbox.moe/duhmlp.png" width=300>
 </div>
 
 
